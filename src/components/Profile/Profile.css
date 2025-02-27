@@ -1,0 +1,25 @@
+.profile-box{
+    background: #e0cdcd;
+    border: 1px;
+    border-radius: 3px;
+}
+.profile-tag{
+    font-style: italic;
+    font-size: 30px;
+}
+.profile-ul{
+    display: flex;
+    flex-direction: row;
+    margin: 0px;
+    align-items: center;
+    justify-content: center;
+}
+.profile-li{
+    display: block;
+    background: #b5a6a6;
+    border: 1px;
+    padding: 20px;
+    font-size: 20px;
+    text-align: center;
+    list-style-type: none;
+}

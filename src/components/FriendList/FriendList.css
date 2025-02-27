@@ -1,0 +1,14 @@
+.friendList-ul {
+    margin: 0 auto;
+    padding: 1cap;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    list-style-type: none;
+  }
+  .friendListItem-li {
+    list-style-type: none;
+    margin: 0;
+  }
