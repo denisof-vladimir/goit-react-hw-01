@@ -9,6 +9,7 @@ import friends from "../components/friends.json";
 import userData from "../components/userData.json";
 import transactions from "../components/transactions.json";
 
+
 function App() {
   const [count, setCount] = useState(0)
 

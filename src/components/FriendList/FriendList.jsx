@@ -2,6 +2,7 @@ import './FriendList.css';
 import FriendListItem from './FriendListItem';
 import friends from "../friends.json";
 
+
 export default function FriendList(props) {
     return (
         <ul className="friendList-ul">
