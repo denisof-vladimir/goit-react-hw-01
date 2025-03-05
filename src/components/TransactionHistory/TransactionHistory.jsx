@@ -1,6 +1,7 @@
 import styles from "../TransactionHistory/TransactionRow.module.css";
 
 export default function TransactionHistory({ Items }) {
+    
     return (
     <div className={styles.transactionHistory}>
         <table>
