@@ -1,5 +1,5 @@
-import './FriendListItem.css';
-// import styles from "./FriendListItem.module.css";
+// import './FriendListItem.css';
+import styles from "./FriendListItem.module.css";
 
 
 export default function FriendListItem({ friend: { avatar, name, isOnline } }) {
